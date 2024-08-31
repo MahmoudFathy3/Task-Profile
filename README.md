@@ -1,3 +1,3 @@
 <h4>Please follow the instructions below</h4>
-<p>Install Node JS</p>
+<p>1- Install Node JS</p>
 <code>npm install</code>
